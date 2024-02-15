@@ -19,9 +19,3 @@ pnpm-lock.yaml
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-# Project
-TODO.md
-public/
-cache/
-*.log
